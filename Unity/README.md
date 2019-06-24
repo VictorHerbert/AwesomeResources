@@ -2,7 +2,7 @@
 
 ## 2D Assets
 
-* (Opengameart)[https://opengameart.org]
+* [Open Game Art](https://opengameart.org)
 
 ### 3D Models
 
