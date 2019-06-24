@@ -6,14 +6,14 @@
 
 ### 3D Models
 
-* (p3dm)[https://p3dm.ru]
+* [p3dm](https://p3dm.ru)
 
 ### Animations
 
-* (Mixamo)[http://mixamo.com]
-* (Sketchfab)[https://sketchfab.com]
+* [Mixamo](http://mixamo.com)
+* [Sketchfab](https://sketchfab.com)
 
 ## Tutorials
-* (Brackeys)[https://opengameart.org]
-* (BlackThornProd)[https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g]
+* [Brackeys](https://opengameart.org)
+* [BlackThornProd](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g)
 
