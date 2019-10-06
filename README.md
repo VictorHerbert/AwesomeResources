@@ -5,3 +5,4 @@ Repository containing useful resources and libraries
 * [Android](https://github.com/VictorHerbert/AwesomeResources/tree/master/Android)
 * [Python](https://github.com/VictorHerbert/AwesomeResources/tree/master/Python)
 * [LaTex](https://github.com/VictorHerbert/AwesomeResources/tree/master/Latex)
+* [General](https://github.com/VictorHerbert/AwesomeResources/tree/master/General)
