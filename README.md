@@ -6,3 +6,4 @@ Repository containing useful resources and libraries
 * [Python](https://github.com/VictorHerbert/AwesomeResources/tree/master/Python)
 * [LaTex](https://github.com/VictorHerbert/AwesomeResources/tree/master/Latex)
 * [General](https://github.com/VictorHerbert/AwesomeResources/tree/master/General)
+* [Design](https://github.com/VictorHerbert/AwesomeResources/tree/master/Design)
