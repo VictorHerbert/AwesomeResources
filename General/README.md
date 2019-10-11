@@ -4,6 +4,11 @@
 * [ProgammableWeb](https://www.programmableweb.com/category/api/api)
 # Databases
 * [World time](http://worldtimeapi.org/)
+* [Lyrics](https://lyricsovh.docs.apiary.io)
+* [Trivia](https://opentdb.com/api_config.php)
+* [Random data (like people or comments)](http://jsonplaceholder.typicode.com/)
+# Tools
+* [Json Server](https://my-json-server.typicode.com/)
 
 # Converters
 * [Audio Converter](https://online-audio-converter.com/pt/)
