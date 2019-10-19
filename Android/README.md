@@ -7,3 +7,4 @@
 ## Flutter
 
 * [Awesome Flutter Packages](https://github.com/Solido/awesome-flutter)
+* [DartPad](https://dartpad.dev/embed-flutter.html) - Online IDE
