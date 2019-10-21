@@ -9,4 +9,5 @@
 * [Awesome Flutter Packages](https://github.com/Solido/awesome-flutter)
 ### Libraries
 * [DartPad](https://dartpad.dev/embed-flutter.html) - Online IDE
-* [PreferenceScreen](https://pub.dev/packages/preferences)
+* [Preference Screen](https://pub.dev/packages/preferences)
+* [Splash Screen](https://pub.dev/packages/splashscreen)
