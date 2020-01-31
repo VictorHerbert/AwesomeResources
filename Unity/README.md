@@ -6,7 +6,15 @@
 
 * [Pi UI](https://assetstore.unity.com/packages/tools/gui/pi-ui-94296) - Radial Menu
 
+## Resources
+
+* [UnityCommunity](https://github.com/UnityCommunity/AwesomeUnityCommunity)
+
 ### Tools
+
+## ShaderGraph
+
+* [Examples](https://github.com/andydbc/unity-shadergraph-sandbox)
 
 ## 2D Assets
 
